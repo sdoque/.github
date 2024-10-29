@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Custom Support
+    url: https://example.com/support
+    about: If you need custom support, please contact us here.
+
